@@ -21,6 +21,7 @@ git clone https://github.com/HenriqueLDSa/Connect-Four-Android-App.git
 3. Build the project to resolve dependencies.
 4. Run the application on an emulator or a physical device.
 
+
 ### To Install the APK
 #### If you prefer to install the game directly without building from source:
 
