@@ -1,6 +1,6 @@
 # Connect Four Mobile Application
 ## Overview
-This repository contains the source code and the APK for a mobile implementation of the classic game Connect Four. Designed and developed with a focus on robustness and reliability, the project follows a test-driven development (TDD) approach and adheres to the Model-View-Controller (MVC) architectural pattern to ensure a clean separation of concerns. The game aims to provide a seamless and enjoyable experience across a wide range of Android devices.
+This repository contains the source code and the APK for an Android mobile implementation of the classic game Connect Four. Designed and developed with a focus on robustness and reliability, the project follows a test-driven development (TDD) approach and adheres to the Model-View-Controller (MVC) architectural pattern to ensure a clean separation of concerns. The game aims to provide a seamless and enjoyable experience across a wide range of Android devices.
 
 ## Features
 - Classic Connect Four Gameplay: Enjoy the timeless game where the objective is to connect four of your tokens in a row, either horizontally, vertically, or diagonally, while preventing your opponent from doing the same.
